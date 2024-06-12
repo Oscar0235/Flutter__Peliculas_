@@ -1,0 +1,182 @@
+{
+  "project_info": {
+    "project_number": "349541614927",
+    "firebase_url": "https://taller-173fd-default-rtdb.firebaseio.com",
+    "project_id": "taller-173fd",
+    "storage_bucket": "taller-173fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:0f5b6d32933c6766f1b13a",
+        "android_client_info": {
+          "package_name": "com.aplica.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:e64a522c7931936ff1b13a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:2b0cc5a54e4c315af1b13a",
+        "android_client_info": {
+          "package_name": "com.example.app_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:eb769702d9d93d52f1b13a",
+        "android_client_info": {
+          "package_name": "com.example.app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:400fa7ab57e365d1f1b13a",
+        "android_client_info": {
+          "package_name": "com.example.flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:5c671d3274d4c68df1b13a",
+        "android_client_info": {
+          "package_name": "com.example.flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:6e4e94f9c5d4defdf1b13a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:9283a632de30d527f1b13a",
+        "android_client_info": {
+          "package_name": "com.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349541614927:android:11d2192ee4ab1aedf1b13a",
+        "android_client_info": {
+          "package_name": "com.taller.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3qt--X7Vb4E059IkMK43eFX3pm5uyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
